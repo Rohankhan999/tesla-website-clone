@@ -1,8 +1,8 @@
 body {
     margin: auto;
     margin-left: 0px;
-    position:absolute;
-    width:1280px;
+ 
+    width:100%;
 
 }
 
@@ -15,7 +15,7 @@ body {
 .image1 {
     background-image:url(images/1.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     background-size: cover;
 }
@@ -48,7 +48,7 @@ p{
 .image2 {
     background-image:url(images/2.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -56,7 +56,7 @@ p{
 .image3 {
     background-image:url(images/3.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -64,7 +64,7 @@ p{
 .image4 {
     background-image:url(images/4.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -72,7 +72,7 @@ p{
 .image5{
     background-image:url(images/5.jpg);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -80,7 +80,7 @@ p{
 .image6{
     background-image:url(images/6.avif);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -88,7 +88,7 @@ p{
 .image7{
     background-image:url(images/7.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -96,7 +96,7 @@ p{
 .image8{
     background-image:url(images/8.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -104,7 +104,7 @@ p{
 .image9{
     background-image:url(images/accessories.png.png);
     width: 1480px;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     background-size: cover;
